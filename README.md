@@ -24,5 +24,5 @@ python Julmi.py
 [![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/Jaat-brand)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@naveenkumar-yb3gu?si=YSfLxW0Ii3E5o4sV)
 
-![Image]()
+![Image](https://i.ibb.co/5WbnbF4H/Screenshot-20250222-211139-Termux.jpg)
 ![Image]()
